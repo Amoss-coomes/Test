@@ -1,0 +1,26 @@
+*{
+    margin: 100;
+    padding: 100;
+
+}
+
+.logo{
+    padding: 20% 10%;
+    width: 10px;
+    height: 10px;
+}
+
+
+
+
+
+
+.footer{
+    text-align: center;
+    color: #888888;
+    background-color: none;
+    padding: 20px 520px;
+    position: absolute;
+    bottom: 0;
+
+}
